@@ -6,10 +6,5 @@ body{
 }
 
 ul{
-    list-style-position: inside;
-}
-
-p{
-    font-size: large;
-    font-weight: bold;
+    list-style-type: none;
 }
